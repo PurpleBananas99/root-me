@@ -18,7 +18,7 @@ We see that we can't input text or click on the button
 
 We can open up the inspect element to view the files
 
-![Screenshot 2021-07-13 153120](https://user-images.githubusercontent.com/79667858/125514309-bb527076-b27c-48bd-ac4d-8ee5a7de8ba0.jpg)
+![Screenshot 2021-07-13 153120](https://user-images.githubusercontent.com/79667858/125518062-3f56f2bc-c748-44d2-a3af-1d6a94d44176.jpg)
 
 The ability to enter text and click the button is disabled 
 
