@@ -14,3 +14,24 @@ Opening the challenge link: http://challenge01.root-me.org/web-client/ch25/
 
 ![Screenshot 2021-07-13 120734](https://user-images.githubusercontent.com/79667858/125487019-e5af41e2-142e-4de9-b31b-7a256131b380.png)
 
+We see that we can't input text or click on the button
+
+We can open up the inspect element to view the files
+
+![Screenshot 2021-07-13 153120](https://user-images.githubusercontent.com/79667858/125514309-bb527076-b27c-48bd-ac4d-8ee5a7de8ba0.jpg)
+
+The ability to enter text and click the button is disabled 
+
+By going to the elements tab and deleting the text "disabled" for both lines, we are able to now enter text and interact with the button
+
+![Screenshot 2021-07-13 153930](https://user-images.githubusercontent.com/79667858/125514681-bdafbac7-7b25-4317-be6b-25f746e2b73c.jpg)
+
+In the text box, you can type in anything, and you will be taken to a page that gives you the password
+
+![Screenshot 2021-07-13 154340](https://user-images.githubusercontent.com/79667858/125515118-53f6bc95-b612-4434-b881-139f18dda946.jpg)
+
+## Password
+
+```
+HTMLCantStopYou  
+```
