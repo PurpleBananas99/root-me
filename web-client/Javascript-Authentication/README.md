@@ -34,7 +34,7 @@ When logging in with these values, we are alerted that we can "validate the chal
 
 ![Screenshot 2021-07-14 091410](https://user-images.githubusercontent.com/79667858/125628156-0c932205-1dd7-490b-badf-7a16db84c332.jpg)
 
-## Flag
+## Password
 ```
 sh.org
 ```
