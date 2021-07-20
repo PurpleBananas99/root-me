@@ -27,7 +27,7 @@ if(h == unescape(pass)) {
     alert('Mauvais mot de passe / wrong password')
 }
 ```
-This snippet looks pretty interesting
+This snippet looks pretty interesting, as the password seems to be hexadecimal
 
 The unescape function will convert hexadecimal sequences to the character(s) that they represent
 
@@ -36,6 +36,8 @@ Let's go to https://beautifier.io to unescape the hexadecimal sequence
 ```
 %63%70%61%73%62%69%65%6e%64%75%72%70%61%73%73%77%6f%72%64
 ```
+
+![Screenshot 2021-07-20 143612](https://user-images.githubusercontent.com/79667858/126377437-a78f216f-61b4-4765-b594-e81bef88861e.jpg)
 
 Paste this hexadecimal sequence into the text-box, and it should return your password: 'cpasbiendurpassword'
 
