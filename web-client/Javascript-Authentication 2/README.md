@@ -26,9 +26,25 @@ Let's check out the javascript file
 
 ![Screenshot 2021-07-20 140056](https://user-images.githubusercontent.com/79667858/126373027-b98a71f2-d470-4e9b-958d-00976c0d39d7.jpg)
 
-The variable TheLists consists of the value "GOD:HIDDEN"
+```javascript
+var username = prompt("Username :", "");
+var password = prompt("Password :", "");
+var TheLists = ["GOD:HIDDEN"];
+```
 
-Later on in the javascript file, we find that they split the TheLists value, separating the TheLists value into two parts by the colon
+We find that there is a variable TheLists with a value of "GOD:HIDDEN"
+
+```Javascript
+var TheSplit = TheLists[i].split(":");
+var TheUsername = TheSplit[0];
+var ThePassword = TheSplit[1];
+if (username == TheUsername && password == ThePassword)
+{
+    alert("Vous pouvez utiliser ce mot de passe pour valider ce challenge (en majuscules) / You can use this password to validate this challenge (uppercase)");
+}
+```
+
+This snippet of code from the js file splits the TheLists value into two parts, separating it by the colon
 
 We find that the username equals the first part of the split, and the password equals the second part of the split
 
