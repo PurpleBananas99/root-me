@@ -1,8 +1,8 @@
 # Challenge Name: Javascript - Obfuscation 2
 
-![Github](https://img.shields.io/badge/date-21.07.2021-brightgreen)
-![Github](https://img.shields.io/badge/category-Web-blueviolet)
-![Github](https://img.shields.io/badge/value-10-blue)
+![Github](https://img.shields.io/badge/date-21.07.2021-brightgreen)  
+![Github](https://img.shields.io/badge/category-Web-blueviolet)  
+![Github](https://img.shields.io/badge/value-10-blue)  
 
 ## Description
 Going down 3 floors.....
